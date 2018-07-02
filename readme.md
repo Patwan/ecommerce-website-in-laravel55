@@ -1,4 +1,4 @@
-# Laravel Learning Management System
+# E-Commerce Web Application in Laravel 5.5
 
 A project on how to create a CRUD based Learning Management system using Laravel 5. Basically the system has role-based authentication of Admin, Teachers and Students. Admin has super-control over all other users.
 
