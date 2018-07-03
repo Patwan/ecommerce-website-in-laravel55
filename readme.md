@@ -14,7 +14,8 @@ Go to your domain and login using the credentials below:
 
 ## Test Credentials to Login
 * Email **admin@admin.com** Password **123456**
-* After login add this route at the top of your browser **.../admin/addProduct**
+* After login navigate this route at the top of your browser **.../admin/addProduct**
+* Navigate to other pages using routes found in **routes/web.php** file
 
 ## License
 This program is free software published under the terms of the GNU [Lesser General Public License](http://www.gnu.org/copyleft/lesser.html). You can freely use it for commercial or non-commercial purposes.
